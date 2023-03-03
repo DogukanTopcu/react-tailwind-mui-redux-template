@@ -2,8 +2,8 @@ import React from 'react'
 
 const _Blank = () => {
   return (
-    <div>
-      react + router + redux
+    <div className='text-xl font-bold'>
+      react + router + redux + tailwind
     </div>
   )
 }
