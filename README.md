@@ -1,3 +1,12 @@
+## Directions:
+- `main` branch: react + react-router-dom + tailwind + redux + material ui
+- `react+router+redux+mui` branch: react project with react-router-dom, material ui and redux packages and setups
+- `react+router+redux+tailwind` branch: react project with react-router-dom, tailwind and redux packages and setups
+- `react+router+redux` branch: react project with react-router-dom and redux packages and setups
+- `react+router` branch: react project and react-router-dom package.
+- `react` branch: only react project exists
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
